@@ -1,0 +1,7 @@
+{
+  "token": "YOUR ACCOUNT TOKEN",
+  "sleep_time": 3600,
+  "status": "dnd",
+  "use_own_proxies": true,
+  "proxy_file": "PATH TO PROXYS"
+}
