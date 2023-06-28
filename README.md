@@ -8,10 +8,6 @@
 
 [https://pick.discowd.com/chrome\_xPUxCZEEk9.png](https://pick.discowd.com/chrome_xPUxCZEEk9.png)
 
-<h2>Project Screenshots:</h2>
-
-<img src="https://pick.discowd.com/chrome_xPUxCZEEk9.png" alt="project-screenshot" width="50" height="50/">
-
 <h2>🛠️ Installation Steps:</h2>
 
 <p>1. Install 1 :</p>
